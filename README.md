@@ -1384,7 +1384,7 @@ Use `/clear` between unrelated tasks, `/compact` at logical breakpoints, and `/c
 These configs work for my workflow. You should:
 1. Start with what resonates
 2. Modify for your stack
-3. Remove what you don't use
+3. Remov you don't use
 4. Add your own patterns
 
 ---
@@ -1431,3 +1431,62 @@ MIT - Use freely, modify as needed, contribute back if you can.
 ---
 
 **Star this repo if it helps. Read both guides. Build something great.**
+# 🚀 Ali-Ai-sources-code (Advanced Edition)
+
+🌍 **[English Version Below](#english-version)**
+
+## 📌 نبذة عن المشروع (Arabic)
+هذا المستودع يمثل بيئة عمل متكاملة ومطورة مبنية على أساس النظام المفتوح المصدر (Everything Claude Code). تم تخصيص هذه النسخة لتوفير أداء أقوى في معالجة الأكواد البرمجية، وهندسة النظم، وفحص الشبكات، مع دمج ملفات إضافية تزيد من استقلالية الذكاء الاصطناعي في تنفيذ المهام المعقدة.
+
+## ✨ الميزات والتحسينات
+* هيكلية مطورة لإدارة المشاريع البرمجية الكبيرة (مثل أنظمة سطح المكتب).
+* تكامل معزز مع الوكلاء المتخصصين لتحليل الثغرات الأمنية والأمن السيبراني.
+* تحسين سرعة معالجة الملفات المحلية وربطها بالنماذج اللغوية المجانية.
+* قواعد عمل مخصصة لدعم المطورين والمهندسين في بيئات العمل الاحترافية.
+
+## 🛠️ متطلبات التشغيل
+لضمان عمل النظام بكفاءة، يجب توفر الأدوات التالية:
+* بيئة تشغيل (Node.js).
+* أداة (Git) لإدارة النسخ.
+* منصة (OpenCode) أو أي بيئة عمل متوافقة.
+
+## 🚀 طريقة التثبيت والاستخدام (Windows)
+1. قم بتحميل المستودع إلى حاسوبك.
+2. افتح موجه الأوامر (PowerShell) بصلاحيات المسؤول.
+3. انتقل إلى مجلد المشروع باستخدام الأمر `cd`.
+4. نفذ الأمر التالي للسماح بتشغيل ملفات التثبيت:
+   `Set-ExecutionPolicy Bypass -Scope Process -Force`
+5. شغل ملف التثبيت الأساسي:
+   `.\install.ps1`
+6. بعد اكتمال التجهيز، توجه لمجلد مشروعك البرمجي وشغل الأداة للاستفادة من كافة الميزات.
+
+---
+
+<a name="english-version"></a>
+## 📌 About The Project (English)
+This repository is an advanced, customized AI workspace environment built on top of the open-source "Everything Claude Code" system. This version is specifically optimized to deliver stronger performance in code processing, systems engineering, and network auditing. It includes additional files that grant AI higher autonomy in executing complex tasks.
+
+## ✨ Features & Enhancements
+* Upgraded architecture for managing large-scale software projects (e.g., Desktop Applications).
+* Enhanced integration with specialized subagents for cybersecurity and vulnerability analysis.
+* Improved processing speed for local files and seamless connection with free LLM models.
+* Custom rules designed to support professional developers and engineers in enterprise environments.
+
+## 🛠️ Prerequisites
+To ensure the system runs efficiently, you need to install:
+* Node.js environment.
+* Git version control.
+* OpenCode platform or any compatible AI harness.
+
+## 🚀 Installation & Usage (Windows)
+1. Clone or download this repository to your local machine.
+2. Open PowerShell as Administrator.
+3. Navigate to the project folder using the `cd` command.
+4. Run the following command to bypass execution policies temporarily:
+   `Set-ExecutionPolicy Bypass -Scope Process -Force`
+5. Execute the installation script:
+   `.\install.ps1`
+6. Once the setup is complete, navigate to your software project's directory and run the AI tool to utilize all advanced features.
+
+## 🛡️ Cybersecurity
+The system is equipped with advanced scanning skills. Use the `/security-scan` command within the workspace to perform proactive code scanning and detect vulnerabilities before deployment.
