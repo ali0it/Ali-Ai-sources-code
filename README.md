@@ -1,7 +1,7 @@
-🚀 Ali-Ai-sources-code (Advanced Edition)
-🌍 English Version Below
+🚀 Ali-Ai-sources-code 
 
-📌 نبذة عن المشروع (Arabic)
+
+📌 نبذة عن المشروع
 هذا المستودع يمثل بيئة عمل متكاملة ومطورة مبنية على أساس النظام المفتوح المصدر (Everything Claude Code). تم تخصيص هذه النسخة لتوفير أداء أقوى في معالجة الأكواد البرمجية، وهندسة النظم، وفحص الشبكات، مع دمج ملفات إضافية تزيد من استقلالية الذكاء الاصطناعي في تنفيذ المهام المعقدة.
 
 ✨ الميزات والتحسينات
@@ -12,9 +12,9 @@
 🛠️ متطلبات التشغيل
 لضمان عمل النظام بكفاءة، يجب توفر الأدوات التالية:
 
-بيئة تشغيل (Node.js).
-أداة (Git) لإدارة النسخ.
-منصة (OpenCode) أو أي بيئة عمل متوافقة.
+بيئة تشغيل (https://nodejs.org/en/download) (Node.js).
+أداة (Git) لإدارة النسخ. (https://git-scm.com/install/windows)
+منصة (OpenCode) أو أي بيئة عمل متوافقة.(https://opencode.ai/download)
 🚀 طريقة التثبيت والاستخدام (Windows)
 قم بتحميل المستودع إلى حاسوبك.
 افتح موجه الأوامر (PowerShell) بصلاحيات المسؤول.
@@ -22,6 +22,7 @@
 نفذ الأمر التالي للسماح بتشغيل ملفات التثبيت: Set-ExecutionPolicy Bypass -Scope Process -Force
 شغل ملف التثبيت الأساسي: .\install.ps1
 بعد اكتمال التجهيز، توجه لمجلد مشروعك البرمجي وشغل الأداة للاستفادة من كافة الميزات.
+
 
 📌 About The Project (English)
 This repository is an advanced, customized AI workspace environment built on top of the open-source "Everything Claude Code" system. This version is specifically optimized to deliver stronger performance in code processing, systems engineering, and network auditing. It includes additional files that grant AI higher autonomy in executing complex tasks.
